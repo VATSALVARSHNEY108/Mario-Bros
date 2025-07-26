@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/VATSAL VARSHNEY/mario-bros.git
+git clone https://github.com/VATSALVARSHNEY108/Mario-Bros.git
 cd mario-bros-game
 Create and activate a virtual environment (optional):
 
