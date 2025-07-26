@@ -1,10 +1,6 @@
 🎮 Mario Bros Game (Python Clone)
 A simple clone of the classic Mario Bros game made using Python! Inspired by the legendary gameplay, this project demonstrates platformer game mechanics including jumping, enemies, coins, and level progression.
 
-🕹️ Demo
-https://github.com/your-username/mario-bros-game/assets/demo.mp4
-(Add gameplay video or GIF here)
-
 🌟 Features
 🧍 Mario character with movement and jumping
 
