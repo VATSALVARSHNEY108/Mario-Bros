@@ -25,9 +25,13 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/VATSALVARSHNEY108/Mario-Bros.git
+git clone https://github.com/VATSALVARSHNEY108/Mario-Bros.git    
 cd mario-bros-game
 Create and activate a virtual environment (optional):
+
+
+Creator 
+Vatsal Varshney
 
 bash
 Copy
